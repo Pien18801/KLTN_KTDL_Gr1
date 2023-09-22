@@ -1,0 +1,12 @@
+# AIRFLOW
+AIRFLOW_UID=0
+AIRFLOW_GID=0
+
+
+# KAFKA
+KAFKA_ENDPOINT       = kafka
+KAFKA_ENDPOINT_PORT  = 9092
+KAFKA_TOPIC          = test
+
+# LOG
+LOG_DIR = logs

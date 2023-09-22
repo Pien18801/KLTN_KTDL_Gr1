@@ -1,0 +1,12 @@
+pyspark==3.2.0
+kafka-python
+apache-airflow
+great-expectations
+python-dotenv
+matplotlib
+seaborn
+joblib
+pandas
+plotly
+
+
